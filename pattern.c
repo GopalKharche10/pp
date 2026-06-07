@@ -12,4 +12,4 @@ int main(void)
     return 0;
 }
 //Write a C program that takes an integer input n and prints the * symbol exactly n times on a single..
-//line using a for loop.
+//line using a for loop.......
